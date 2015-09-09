@@ -1,0 +1,12 @@
+{
+  "name": "sample-ionic-app-for-cms",
+  "app_id": "e736d295",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
